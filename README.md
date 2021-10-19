@@ -16,6 +16,6 @@ This working group is just getting started, but feel free to get involved via on
 
 - [Weekly Call]("TODO: <link to google/zoom meeting>") - Weekly call TBD.
 - [Discussions](TBD - create discussion section) - Use the Github discussions to ask questions and engage in discussion with the community.
-- Slack - Email stu@opentravel.org and we'll get you added to the Slack channel for the group.
+- Slack - Email refael@up9.com and we'll get you added to the Slack channel for the group.
 - [Issues](https://github.com/OAI/sig-finance/issues) - Feel free to submit a Github issue with any question or comment about the working group.
 - [Projects](https://github.com/OAI/sig-finance/projects) - Keep up to speed on the various projects occurring via Github projects for this group.
