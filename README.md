@@ -8,7 +8,13 @@ The working group is currently made up of the following individual, and feel fre
 - more to come (["Title"]("<linkedin profile>"))
 
 ## Mission Statement
-The Open Finance SIG will identify and document the API behaviors needed by the finance industry to enable Open Finance solutions in the near future, documented in the form of use cases and workflows. This effort will begin by assembling a team of special interests in the areas of open-source and finance. The initial rallying point will be understanding how to serve financial organizations within the European Union (EU) and European Economic Union (EEA), which are impacted by recent changes in the law. Eventually, Open Finance will be able to serve organizations including but not limited to banks, credit unions, insurance companies, credit bureaus, real estate groups, and merchants selling any product requiring financing. Additionally, customers will benefit from increased flexibility and control from the free flow of information - that is, the right information to the right parties. The Open Finance SIG will work with other OAI SIGs on how best to support the documented use cases and workflows in order to maximize efficiency. The first step will be holding a forum for discussion on key problems to address and changes to make within the OAI framework.
+The Open Finance SIG will identify and document the API behaviors needed by the finance industry to enable Open Finance solutions in the near future, documented in the form of use cases and workflows. 
+This effort will begin by assembling a team of special interests in the areas of open-source and finance. 
+The initial rallying point will be understanding how to serve financial organizations within the European Union (EU) and European Economic Union (EEA), which are impacted by recent changes in the law. 
+Eventually, Open Finance will be able to serve organizations including but not limited to banks, credit unions, insurance companies, credit bureaus, real estate groups, and merchants selling any product requiring financing. 
+Additionally, customers will benefit from increased flexibility and control from the free flow of information - that is, the right information to the right parties. 
+The Open Finance SIG will work with other OAI SIGs on how best to support the documented use cases and workflows in order to maximize efficiency. 
+The first step will be holding a forum for discussion on key problems to address, and changes to make, within the OAI framework for Open Finance.
 
 
 ## Get Involved
