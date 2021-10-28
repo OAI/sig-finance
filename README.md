@@ -1,11 +1,13 @@
 # OpenAPI Initiative (OAI) Finance Working Group
+![OpenFinance](https://github.com/OAI/sig-finance/tree/main/files/openapi-finance.png)
+
 This is a public repository for managing work around the OAI Finance Working Group, providing a single place to manage artifacts, discussions, projects, and other aspects of using the OpenAPI specification as part of the finance industry such as Banking, Insurance, Mortgage, Credit, Investments and more..
 
 ## Working Group
 The working group is currently made up of the following individual, and feel free to submit issue requested to be added.
 
 - Refael Botbol Weiss ([Co-founder & VP of Customer Experience in UP9](https://www.linkedin.com/in/refaelbotbol/))
-- more to come (["Title"]("<linkedin profile>"))
+- Kin Lane ([Chief Evangelist at Postman](https://www.linkedin.com/in/kinlane/))
 
 ## Mission Statement
 The Open Finance SIG will identify and document the API behaviors needed by the finance industry to enable Open Finance solutions in the near future, documented in the form of use cases and workflows. 
