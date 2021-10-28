@@ -1,5 +1,5 @@
 # OpenAPI Initiative (OAI) Finance Working Group
-![OpenFinance](https://github.com/OAI/sig-finance/blob/main/files/openapi-finance.png)
+![OpenFinance](https://github.com/OAI/sig-finance/blob/main/files/openapi-finance-small.png)
 
 This is a public repository for managing work around the OAI Finance Working Group, providing a single place to manage artifacts, discussions, projects, and other aspects of using the OpenAPI specification as part of the finance industry such as Banking, Insurance, Mortgage, Credit, Investments and more..
 
